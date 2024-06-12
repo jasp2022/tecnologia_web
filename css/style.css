@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+
+.elemento1{
+    color:red;
+    text-decoration: none;
+}
+
+.elemento2{
+    color:blue;
+    text-decoration: none;
+}
+
+.elemento3{
+    color: green;
+    text-decoration: none;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+th:hover{
+    background-color: white;
+    color: black;
+}
